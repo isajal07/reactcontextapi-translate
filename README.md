@@ -1,5 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple translator using React Context API. 
 
+Context provides a way to pass data through the component tree without having to pass props down manually at every level.
 ## Available Scripts
 
 In the project directory, you can run:
